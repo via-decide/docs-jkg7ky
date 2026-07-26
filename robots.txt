@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-gj4515.jambul126.online/sitemap.xml
